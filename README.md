@@ -23,6 +23,7 @@ This Traffic is necessary to get the newest information. As an example: This inf
 We are able to giv eyou the choice how the traffic should happen. You can use only WIFI and will loose no traffic from your mobild data.
 
 For coders: check out the following links to get well informations about pwa:
+
 https://developers.google.com/web/updates/capabilities
 
 https://developer.mozilla.org/de/docs/Web/Manifest
