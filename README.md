@@ -25,6 +25,8 @@ https://developer.mozilla.org/de/docs/Web/Manifest
 
 https://www.w3.org/
 
+https://developer.android.com/training/basics/supporting-devices/languages
+
 2. Core Features
 Service Worker, Background Sync, Web Push, Manifest ( install from browser as webpage ) 
 
