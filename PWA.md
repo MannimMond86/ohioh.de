@@ -15,6 +15,11 @@ https://open-wc.org/building/rollup-plugin-html.html
 https://lit-element.polymer-project.org/guide/start
 https://github.com/pwa-builder/pwa-starter
 
+# Dive in The Install Worker: 
+
+# Dive in The Activate Worker: 
+
+# Dive in The Fetch Worker: 
 
 ## Strategy: Cache with Network FallbackPage
 
