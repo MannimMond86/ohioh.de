@@ -30,6 +30,8 @@ Videos:
 https://www.youtube.com/watch?v=srdKq0DckXQ
 https://www.youtube.com/watch?v=MyQ8mtR9WxI
 
+# Pre-Install-Event:
+
 # Install-Event:
 
 # Activate-Event:
@@ -79,5 +81,11 @@ Important for Coders:This  process is in the requested *.js file and the service
 The important question to understand why we have do give this a look is "What is loaded first...the serviceworker or the wihed *.js file from the index.html?"
 
 
+# Cache-Management
+
+It is important to take care about the dynmaic Cache. Depending on the used strategy the dynamic Cache can get filled by each new page that we open.
+
+It will  not much   traffic and data compared to the normal user  behavior of facebook or whatsapp  but we try to  optimize this too.
+We use a function to use a cache clean  time by  time
 
 
