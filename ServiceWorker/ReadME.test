@@ -34,6 +34,11 @@ https://www.w3.org/TR/appmanifest/
 
 https://findpwa.com/
 
+
+https://www.npmjs.com/package/sw-precache-webpack-plugin
+
+https://www.npmjs.com/package/worker-service-manager
+
 https://lit-element.polymer-project.org/guide/start
 https://github.com/pwa-builder/pwa-starter
 
