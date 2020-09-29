@@ -8,6 +8,9 @@ All you  need:https://codelabs.developers.google.com/codelabs/pwa-welcome/#1
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race
 
+
+https://www.netlify.com/blog/2017/11/15/what-build-tools-can-do-for-you/
+
 ## Roadmap
 
 * [x] Basic Java/Swift <-> go-ipfs bindings
