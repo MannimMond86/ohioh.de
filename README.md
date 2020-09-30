@@ -1,3 +1,9 @@
+
+https://github.com/IjzerenHein/node-web-bluetooth#readme
+
+https://github.com/abandonware/noble
+
+
 https://www.npmjs.com/package/node-web-bluetooth
 
 https://www.npmjs.com/package/build-ble
