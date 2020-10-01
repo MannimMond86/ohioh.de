@@ -27,6 +27,7 @@ https://googlechrome.github.io/samples/web-bluetooth/
 https://www.bluetooth.com/bluetooth-resources/progressive-bluetooth-apps-with-web-bluetooth/
 
 Links:
+https://blog.ruuvi.com/ruuvi-firmware-part-9-bluetooth-broadcasting-2e3ae4fcf21a
 https://stackoverflow.com/questions/59653422/bluetooth-connectivity-using-pwa
 https://polidea.github.io/react-native-ble-plx/ https://punchthrough.com/android-ble-guide/
 https://punchthrough.com/android-ble-development-tips/
